@@ -1,0 +1,12 @@
+.{
+    .name = .s2s,
+    .version = "0.0.0",
+    .fingerprint = 0x8d8a7bec823b90e6,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "s2s.zig",
+        "LICENCE",
+    },
+}
